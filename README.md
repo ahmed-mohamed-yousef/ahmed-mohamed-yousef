@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 
-- 💻 أنا Backend Developer متخصص في **Java & Spring Boot**
-- 🧠 مهتم بـ **System Design & Clean Code**
-- 🗄️ شغال على **Databases & APIs**
-- ⚙️ بحب أبني **RESTful APIs** قوية وقابلة للتوسع
-- 📚 بتعلم باستمرار علشان أوصل لمستوى احترافي
+- 💻 Backend Developer specialized in **Java & Spring Boot**
+- 🧠 Passionate about **Problem Solving & Clean Code**
+- ⚙️ Experienced in building **RESTful APIs**
+- 🗄️ Strong understanding of **Databases & System Design**
+- 📚 Continuously learning and improving my skills
 
 ---
 
@@ -28,7 +28,11 @@
 ![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-### 🗄️ Database
+### 💻 Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+
+### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
@@ -51,7 +55,8 @@ public class Ahmed extends BackendDeveloper {
         "REST APIs",
         "Database Design",
         "Authentication & Authorization",
-        "Problem Solving"
+        "Problem Solving",
+        "C++"
     };
 
     void build() {
