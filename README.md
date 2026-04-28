@@ -3,7 +3,7 @@
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
 <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
 
-<h1>Hi 👋, I'm Ahmed Mohamed Youssef</h1>
+<h1>Hi 👋, I'm Ahmed Mohamed Yousef</h1>
 <h3>Backend Developer | Java & Spring Boot 🚀</h3>
 
 </div>
@@ -14,9 +14,9 @@
 
 - 💻 Backend Developer specialized in **Java & Spring Boot**
 - 🧠 Passionate about **Problem Solving & Clean Code**
-- ⚙️ Experienced in building **RESTful APIs**
-- 🗄️ Strong understanding of **Databases & System Design**
-- 📚 Continuously learning and improving my skills
+- ⚙️ I build **RESTful APIs**
+- 🗄️ Strong knowledge in **Databases & System Design**
+- 📚 Always learning and improving
 
 ---
 
