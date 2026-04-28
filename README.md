@@ -1,69 +1,60 @@
-# Hi there! 👋 I'm Ahmed Mohamed Youssef
+<div align="center" width="50">
 
-<p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINK" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" height="30" />
-  </a>
-  <a href="https://github.com/YOUR-USERNAME" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/github.svg" height="30" />
-  </a>
-</p>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/hellocoders_rounded.gif?raw=true" width="60%"/> <br>
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" width="40%"/><br> 
 
----
+<h1>Hi 👋, I'm Ahmed Mohamed Youssef</h1>
+<h3>Backend Developer | Java & Spring Boot 🚀</h3>
 
-## 👨‍💻 About Me:
-
-- 🎓 I'm a Computer Science student (AI Department)
-- 💻 Backend Developer using **Java & Spring Boot**
-- 🚀 Currently learning **Microservices & System Design**
-- 🧠 Interested in **Data Analysis & AI**
-- 📚 I love understanding how systems work deeply (مش حفظ وخلاص 😄)
-- ⚡ Fun fact: I turn coffee ☕ into code
+</div>
 
 ---
 
-## 🧑‍💻 Tech Stack:
+## 👨‍💻 About Me
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,spring,mysql,postgres,git,github,docker,linux" />
-  </a>
-</p>
-
----
-
-## 🔥 What I’m Working On:
-
-- 🏗 Building Backend Projects with **Spring Boot**
-- 🔐 Authentication & Authorization (JWT, Security)
-- 🗄 Database Design & Optimization
-- 📦 RESTful APIs & Clean Architecture
+- 💻 أنا Backend Developer متخصص في **Java & Spring Boot**
+- 🧠 مهتم بـ **System Design & Clean Code**
+- 🗄️ شغال على **Databases & APIs**
+- ⚙️ بحب أبني **RESTful APIs** قوية وقابلة للتوسع
+- 📚 بتعلم باستمرار علشان أوصل لمستوى احترافي
 
 ---
 
-## 📊 GitHub Stats:
+## 🛠️ Tech Stack
 
-![Ahmed's github stats](https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=dark)
+### 🚀 Backend
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat&logo=springboot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/SpringSecurity-6DB33F?style=flat&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=hibernate&logoColor=white)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR-USERNAME&theme=dark)
+### 🗄️ Database
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
 
----
-
-## 📌 Featured Projects:
-
-- 🔹 Contact Manager System (OOP + Collections)
-- 🔹 REST API with Spring Boot
-- 🔹 Authentication System (JWT)
-
----
-
-## 📫 Connect With Me:
-
-- 💼 LinkedIn: https://linkedin.com/in/YOUR-LINK
-- 📧 Email: your-email@gmail.com
+### 🧰 Tools
+![Git](https://img.shields.io/badge/GIT-E44C30?style=flat&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat&logo=postman&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![VS Code](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white)
 
 ---
 
-## 💡 Quote:
+## 🧠 What I Do
 
-> "First, solve the problem. Then, write the code." – John Johnson
+```java
+public class Ahmed extends BackendDeveloper {
+
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "REST APIs",
+        "Database Design",
+        "Authentication & Authorization",
+        "Problem Solving"
+    };
+
+    void build() {
+        System.out.println("Building scalable backend systems 🚀");
+    }
+}
